@@ -1,11 +1,11 @@
 cask "ajar" do
   version "1.0.0"
-  sha256 "269a2973be9524cfd6e84809bef23749c9bd510eb642f0faca21182fc39e2aa4"
+  sha256 "3fdd3c3ebf8fdcdf58cdfea0e4589d0492b20198a70d7805419a4c8e4cf9d14a"
 
-  url "https://12alexanderbell-graham.github.io/ajar/downloads/Ajar-#{version}-mac.zip"
+  url "https://ajar.tools/downloads/Ajar-#{version}-mac.zip"
   name "Ajar"
   desc "Keeps a Mac awake with the lid closed while AI agents work, then lets it sleep"
-  homepage "https://12alexanderbell-graham.github.io/ajar/"
+  homepage "https://ajar.tools/"
 
   depends_on macos: ">= :sonoma"
 
