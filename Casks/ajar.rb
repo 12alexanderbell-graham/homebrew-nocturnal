@@ -1,6 +1,6 @@
 cask "ajar" do
   version "1.0.0"
-  sha256 "dc3a0af1616f4c8ce607c7cdcc7f678d530dd852e2335862c2fdbfeddc79cd20"
+  sha256 "8b075f7f6ce853eee267f55957343257d1acd6bdffb705035632ff437f95a0a6"
 
   url "https://ajar.tools/downloads/Ajar-#{version}-mac.zip"
   name "Ajar"
