@@ -1,7 +1,7 @@
-# Homebrew tap for Ajar
+# Homebrew tap for Nocturnal
 
 ```
-brew install --cask 12alexanderbell-graham/ajar/ajar
+brew install --cask 12alexanderbell-graham/ajar/nocturnal
 ```
 
-Ajar keeps a Mac awake with the lid closed while AI agents work, then lets it sleep. https://12alexanderbell-graham.github.io/ajar/
+Nocturnal keeps a Mac awake with the lid closed while AI agents work, then lets it sleep. https://nocturnal.tools
