@@ -1,6 +1,6 @@
 cask "nocturnal" do
   version "1.0.0"
-  sha256 "2f1b3ad6ae6926ac9d3bab4718d4182a53fb1c08ea20142844b6422767e8eb17"
+  sha256 "1bb554696e7aa82f6e6cb2292e3742cbef9c9bf3afe8341faf9650be417089bc"
 
   url "https://nocturnal.tools/downloads/Nocturnal-#{version}-mac.zip"
   name "Nocturnal"
