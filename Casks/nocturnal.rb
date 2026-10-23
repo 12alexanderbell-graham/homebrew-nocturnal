@@ -27,6 +27,9 @@ cask "nocturnal" do
       ]
 
   caveats <<~EOS
+    Nocturnal isn't notarized yet. The first time you open it, macOS blocks it: open
+    System Settings › Privacy & Security and click Open Anyway.
+
     Open Nocturnal once to finish setup (it asks for your password one time to allow only
     the pmset and tmutil commands it needs).
 
