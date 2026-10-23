@@ -2,7 +2,8 @@ cask "nocturnal" do
   version "1.0.0"
   sha256 "d27be07a3220e5aad428cc4a1ad7fa1bac16d61dc243fb99a3f1b52433ef6c53"
 
-  url "https://nocturnal.tools/downloads/Nocturnal-#{version}-mac.zip"
+  url "https://github.com/12alexanderbell-graham/nocturnal/releases/download/v#{version}/Nocturnal-#{version}-mac.zip",
+      verified: "github.com/12alexanderbell-graham/nocturnal/"
   name "Nocturnal"
   desc "Keeps a Mac awake with the lid closed while AI agents work, then lets it sleep"
   homepage "https://nocturnal.tools/"
